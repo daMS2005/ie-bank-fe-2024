@@ -7,8 +7,8 @@ on:
   workflow_dispatch:
 
 env:
-  FRONTEND_WEBAPP_DEV: danielmora-fe-dev
-  FRONTEND_WEBAPP_UAT: danielmora-fe-uat
+  FRONTEND_WEBAPP_DEV: danielmorasoler-fe-dev
+  FRONTEND_WEBAPP_UAT: danielmorasoler-fe-uat
 
 jobs:
   build-dev:
